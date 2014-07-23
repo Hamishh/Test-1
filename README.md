@@ -7,3 +7,15 @@ Test 22/04/2014
 New test installed on Mac
 
 New test installed on Mac 2
+
+New test on 20 June
+
+Test after .gitconfig edit to include:- [user]
+[http]
+	http.proxy http://username:password@proxy-server:port
+
+Test upteen
+
+Test new 21 july.
+
+New 22nd July
