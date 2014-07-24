@@ -35,4 +35,4 @@ No http test
 
 No verify ssl test
 
-Test Thursday 24th July...
+Test Thursday 24th July….
