@@ -38,3 +38,5 @@ No verify ssl test
 Test Thursday 24th July….
 Mon28thJuly..
 Mon28thJuly.. test on different IP
+
+Test with no proxy in gitconfig.
