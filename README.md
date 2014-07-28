@@ -40,3 +40,5 @@ Mon28thJuly..
 Mon28thJuly.. test on different IP
 
 Test with no proxy in gitconfig.
+
+With proxy in gitconfig
